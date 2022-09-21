@@ -1,5 +1,4 @@
 # Python
 mi primer repositorio en Gubhub
-Me gusta el futbol
-Pelicula favorita el señor de los anillos
+i love : basketball , soccer , nfl
 mi ultima linea en mi repositorio
